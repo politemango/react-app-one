@@ -4,7 +4,7 @@ Simple Todo App / React Practice
 ref. Nomadcoders
 first react app practice(220813)
 
-###Functions
+### Functions
 
 Add todo things and show by list
 
